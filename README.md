@@ -2,7 +2,7 @@
 
 Este projeto apresenta uma **barra de habilidades** que exibe o nível de proficiência em várias linguagens de programação. Utiliza **HTML** e **CSS** para a estrutura e o estilo, proporcionando uma maneira visual de mostrar as habilidades.
 
-[![gif contact](https://imgur.com/ONy9gfV.gif)](https://gui-macedo-7.github.io/skills-bar/)
+[![gif skills](https://imgur.com/ONy9gfV.gif)](https://gui-macedo-7.github.io/skills-bar/)
 
 ## ✨ Funcionalidades
 
